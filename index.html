@@ -8,7 +8,7 @@ Pages
     {%- for page in site.page -%}
     <li>
       {%- assign date_format = "%Y.%m.%d" -%}
-      <a href="{{ page.url | relative_url }}">{{ "now" | date: date_format }} - {{ page.title | escape }}</a>
+      <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
     </li>
     {%- endfor -%}
   </ul>
