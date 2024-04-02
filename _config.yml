@@ -41,8 +41,7 @@ url: https://uamatrix.github.io/
 #
 
 safe:  false
-include: ["_pages"]
-exclude: ["README.md"]
+include: "_pages"
 
 collections:
   pages:
