@@ -40,15 +40,7 @@ url: https://uamatrix.github.io/
 # !! You don't need to change any of the configuration flags below !!
 #
 
-safe:  false
-include: "_pages"
-
-collections:
-  pages:
-    output: true
-    permalink: /:collection/:path/
-
-# permalink: /:title/
+permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
