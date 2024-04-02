@@ -42,7 +42,7 @@ url: https://uamatrix.github.io/
 
 #safe: false
 
-#include: "_pages"
+include: "_pages"
 
 collections:
   page:
