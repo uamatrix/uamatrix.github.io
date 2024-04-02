@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Сайт створено і наповнюється за підтримки Matrix простору [Патріотична Україна](https://matrix.to/#/#ukraine.all:matrix.org).
 
-### More Information
+Пропозиції і питання надсилайте адміністратором простору або пул реквестом (pull request) до цього репозиторію.
 
-A place to include any other types of information that you'd like to include about yourself.
+## Контакти
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+@rxxjfqhx:matrix.org
