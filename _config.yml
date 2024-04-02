@@ -47,7 +47,7 @@ include: "_pages"
 collections:
   page:
     output: true
-    permalink: /:title/
+    permalink: /:collection/:title/
 
 permalink: /:title/
 
