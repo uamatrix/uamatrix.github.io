@@ -2,31 +2,26 @@
 layout: default
 ---
 <h2>Останні оновлення</h2>
-<h3>Pages</h3>
-{% assign pages = site.pages %}
-{% for pages in site.pages %}
-  <a href="{{ pages.url }}">
-    {{ pages.title }}
-  </a>
-{% endfor %}
-
-{%- if site.pages.size > 0 -%}
-  <ul>
-    {%- for pages in site.pages -%}
-    <li>
-      {%- assign date_format = "%Y.%m.%d" -%}
-      <a href="{{ pages.url | relative_url }}">{{ pages.title | escape }}</a>
-    </li>
-    {%- endfor -%}
-  </ul>
-{%- endif -%}
-<h3>Post</h3>
+<h3>Оновлення</h3>
 {%- if site.posts.size > 0 -%}
   <ul>
     {%- for post in site.posts -%}
     <li>
       {%- assign date_format = "%Y.%m.%d" -%}
       <a href="{{ post.url | relative_url }}">{{ "now" | date: date_format }} - {{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
+
+<h3>Новини</h3>
+# {% assign pages = site.pages %}
+{%- if site.pages.size > 0 -%}
+  <ul>
+    {%- for pages in site.pages -%}
+    <li>
+      {%- assign date_format = "%Y.%m.%d" -%}
+      <a href="{{ pages.url | relative_url }}">{{ pages.title | escape }}</a>
     </li>
     {%- endfor -%}
   </ul>
