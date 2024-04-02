@@ -45,9 +45,9 @@ url: https://uamatrix.github.io/
 include: "_pages"
 
 collections:
-  page:
+  pages:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:title/
 
 permalink: /:title/
 
