@@ -2,7 +2,12 @@
 layout: default
 ---
 <h2>Останні оновлення</h2>
-Pages
+<h3>Pages</h3>
+{% for page in site.page %}
+  <h2>{{ page.title }}</h2>
+{% endfor %}
+
+
 {%- if site.page.size > 0 -%}
   <ul>
     {%- for page in site.page -%}
@@ -13,7 +18,7 @@ Pages
     {%- endfor -%}
   </ul>
 {%- endif -%}
-Post
+<h3>Post</h3>
 {%- if site.posts.size > 0 -%}
   <ul>
     {%- for post in site.posts -%}
