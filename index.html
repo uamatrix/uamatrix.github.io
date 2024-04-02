@@ -2,6 +2,18 @@
 layout: default
 ---
 <h2>Останні оновлення</h2>
+Pages
+{%- if site.page.size > 0 -%}
+  <ul>
+    {%- for page in site.page -%}
+    <li>
+      {%- assign date_format = "%Y.%m.%d" -%}
+      <a href="{{ page.url | relative_url }}">{{ "now" | date: date_format }} - {{ page.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
+Post
 {%- if site.posts.size > 0 -%}
   <ul>
     {%- for post in site.posts -%}
