@@ -3,19 +3,19 @@ layout: default
 ---
 <h2>Останні оновлення</h2>
 <h3>Pages</h3>
-{% assign page = site.page %}
-{% for page in site.page %}
-  <a href="{{ page.url }}">
-    {{ page.path }}
+{% assign pages = site.pages %}
+{% for pages in site.pages %}
+  <a href="{{ pages.url }}">
+    {{ pages.title }}
   </a>
 {% endfor %}
 
-{%- if site.page.size > 0 -%}
+{%- if site.pages.size > 0 -%}
   <ul>
-    {%- for page in site.page -%}
+    {%- for pages in site.pages -%}
     <li>
       {%- assign date_format = "%Y.%m.%d" -%}
-      <a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
+      <a href="{{ pages.url | relative_url }}">{{ pages.title | escape }}</a>
     </li>
     {%- endfor -%}
   </ul>
