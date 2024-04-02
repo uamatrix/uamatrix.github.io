@@ -3,6 +3,7 @@ layout: default
 ---
 <h2>Останні оновлення</h2>
 <h3>Pages</h3>
+{% assign page = site.page %}
 {% for page in site.page %}
   <a href="{{ page.url }}">
     {{ page.path }}
