@@ -6,14 +6,20 @@ title: Порівняння мобільних клієнтів Matrix з клі
 | Назва                  | Трекери | Дозволи |
 |------------------------|:-------:|:-------:|
 | Band                   |   10    |   50    |
+| Ditto                  |    0    |    7    |
 | Element                |    1    |   28    |
+| Element X              |    1    |   17    |
+| FluffyChat             |    1    |   39    |
 | GroupMe                |    9    |   51    |
 | Line                   |    4    |   54    |
 | Messenger for Facebook |    6    |   10    |
+| Quadrix                |    1    |   17    |
+| SchildiChat            |    1    |   28    |
 | Signal                 |    0    |   63    |
 | Skype                  |    3    |   61    |
 | Slack                  |    3    |   26    |
 | Snapchat               |    2    |   68    |
+| Syphon                 |    0    |   10    |
 | Telegram               |    1    |   60    |
 | Threema Work           |    0    |   39    |
 | Viber                  |    7    |   80    |
