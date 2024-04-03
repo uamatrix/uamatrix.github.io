@@ -8,53 +8,53 @@ title: Який клієнт Matrix краще?
 
 ### Функції
 
-| Назва                                     | E2ee | Простори | Voip 1на1 | Voip Jitsi | Гілки | Sso | Мультиаккаунт |   Багатомовність    |
-|-------------------------------------------|:----:|:--------:|:---------:|:----------:|:-----:|-----|:-------------:|:-------------------:|
-| [AgentSmith](#agentsmith)                 |      |          |           |            |       |     |               |                     |
-| [Cinny](#cinny)                           |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |         ❌          |
-| [Commet](#commet)                         |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |         ❌          |
-| [Continuum](#continuum)                   |      |          |           |            |       |     |               |                     |
-| [Ditto](#ditto)                           |      |          |           |            |       |     |               |                     |
-| [Element](#element)                       |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ❌       |         ✅          |
-| [Element X](#element-x)                   |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |         ✅          |
-| [FluffyChat](#fluffychat)                 |  ✅  |    ✅    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |         ✅          |
-| [Fractal](#fractal)                       |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |         ✅          |
-| [Hydrogen](#hydrogen)                     |  ✅  |    ❌    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |         ✅          |
-| [Matrix IRCd](#matrix-ircd)               |      |          |           |            |       |     |               |                     |
-| [Matrix Static](#matrix-static)           |      |          |           |            |       |     |               |                     |
-| [Mirage](#mirage)                         |      |          |           |            |       |     |               |                     |
-| [NeoChat](#neochat)                       |  ✅  |    ✅    |    ❌     |     ❌     |       | ✅  |      ✅       |         ✅          |
-| [Nheko](#nheko)                           |  ✅  |    ✅    |    ✅     |     ❌     |  ✅   | ✅  |      ❌       |         ✅          |
-| [Nio](#nio)                               |      |          |           |            |       |     |               |                     |
-| [Quadrix](#quadrix)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |         ❌          |
-| [Quaternion](#quaternion)                 |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |         ❌          |
-| [~~Rambox CE~~](#rambox-ce)               |      |          |           |            |       |     |               |                     |
-| [SchildiChat](#schildichat)               |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ✅       |         ❌          |
-| [Scylla](#scylla)                         |      |          |           |            |       |     |               |                     |
-| [Spectral](#spectral)                     |      |          |           |            |       |     |               |                     |
-| [Syphon](#syphon)                         |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |         ✅          |
-| [Thunderbird](#thunderbird)               |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |         ✅          |
-| [chat](#chat)                             |      |          |           |            |       |     |               |                     |
-| [gomuks](#gomuks)                         |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |         ❌          |
-| [iamb](#iamb)                             |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |         ❌          |
-| [kazv](#kazv)                             |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |         ✅          |
-| [~~matrix-client.el~~](#matrix-client-el) |      |          |           |            |       |     |               |                     |
-| [matrix-commander](#matrix-commander)     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |         ❌          |
-| [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                     |
-| [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |         ❌          |
-| [quickmedia](#quickmedia)                 |      |          |           |            |       |     |               |                     |
+| Бали | Назва                                     | E2ee | Простори | Voip 1на1 | Voip Jitsi | Гілки | Sso | Мультиаккаунт | Багатомовність |
+|:----:|-------------------------------------------|:----:|:--------:|:---------:|:----------:|:-----:|-----|:-------------:|:--------------:|
+|  7   | [SchildiChat](#schildichat)               |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ✅       |       ❌       |
+|  7   | [FluffyChat](#fluffychat)                 |  ✅  |    ✅    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
+|  7   | [Element](#element)                       |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ❌       |       ✅       |
+|  6   | [Nheko](#nheko)                           |  ✅  |    ✅    |    ✅     |     ❌     |  ✅   | ✅  |      ❌       |       ✅       |
+|  6   | [Hydrogen](#hydrogen)                     |  ✅  |    ❌    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
+|  5   | [iamb](#iamb)                             |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |       ❌       |
+|  5   | [NeoChat](#neochat)                       |  ✅  |    ✅    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+|  4   | [Thunderbird](#thunderbird)               |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+|  4   | [Syphon](#syphon)                         |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+|  4   | [Fractal](#fractal)                       |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ✅       |
+|  3   | [Commet](#commet)                         |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |       ❌       |
+|  3   | [Cinny](#cinny)                           |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
+|  2   | [matrix-commander](#matrix-commander)     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
+|  2   | [kazv](#kazv)                             |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
+|  2   | [Quaternion](#quaternion)                 |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ❌       |
+|  2   | [Element X](#element-x)                   |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
+|  1   | [gomuks](#gomuks)                         |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
+|  0   | [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
+|  0   | [Quadrix](#quadrix)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
+|      | [~~matrix-client.el~~](#matrix-client-el) |      |          |           |            |       |     |               |                |
+|      | [~~Rambox CE~~](#rambox-ce)               |      |          |           |            |       |     |               |                |
+|      | [quickmedia](#quickmedia)                 |      |          |           |            |       |     |               |                |
+|      | [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                |
+|      | [chat](#chat)                             |      |          |           |            |       |     |               |                |
+|      | [Spectral](#spectral)                     |      |          |           |            |       |     |               |                |
+|      | [Scylla](#scylla)                         |      |          |           |            |       |     |               |                |
+|      | [Nio](#nio)                               |      |          |           |            |       |     |               |                |
+|      | [Mirage](#mirage)                         |      |          |           |            |       |     |               |                |
+|      | [Matrix Static](#matrix-static)           |      |          |           |            |       |     |               |                |
+|      | [Matrix IRCd](#matrix-ircd)               |      |          |           |            |       |     |               |                |
+|      | [Ditto](#ditto)                           |      |          |           |            |       |     |               |                |
+|      | [Continuum](#continuum)                   |      |          |           |            |       |     |               |                |
+|      | [AgentSmith](#agentsmith)                 |      |          |           |            |       |     |               |                |
 
 ### Трекери і дозволи
 
-| Назва                       | Трекери | Дозволи |
-|-----------------------------|:-------:|:-------:|
-| [Ditto](#ditto)             |    0    |    7    |
-| [Element X](#element-x)     |    1    |   17    |
-| [Element](#element)         |    1    |   28    |
-| [FluffyChat](#fluffychat)   |    1    |   39    |
-| [Quadrix](#quadrix)         |    1    |   17    |
-| [SchildiChat](#schildichat) |    1    |   28    |
-| [Syphon](#syphon)           |    0    |   10    |
+| Бали | Назва                       | Трекери | Дозволи |
+|:----:|-----------------------------|:-------:|:-------:|
+|  07  | [Ditto](#ditto)             |    0    |    7    |
+|  10  | [Syphon](#syphon)           |    0    |   10    |
+|  18  | [Element X](#element-x)     |    1    |   17    |
+|  18  | [Quadrix](#quadrix)         |    1    |   17    |
+|  29  | [Element](#element)         |    1    |   28    |
+|  29  | [SchildiChat](#schildichat) |    1    |   28    |
+|  40  | [FluffyChat](#fluffychat)   |    1    |   39    |
 
 ## Рейтинг клієнтів Matrix
 
