@@ -29,20 +29,6 @@ title: Який клієнт Matrix краще?
 |  1   | [gomuks](#gomuks)                         |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
 |  0   | [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
 |  0   | [Quadrix](#quadrix)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
-|      | [~~matrix-client.el~~](#matrix-client-el) |      |          |           |            |       |     |               |                |
-|      | [~~Rambox CE~~](#rambox-ce)               |      |          |           |            |       |     |               |                |
-|      | [quickmedia](#quickmedia)                 |      |          |           |            |       |     |               |                |
-|      | [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                |
-|      | [chat](#chat)                             |      |          |           |            |       |     |               |                |
-|      | [Spectral](#spectral)                     |      |          |           |            |       |     |               |                |
-|      | [Scylla](#scylla)                         |      |          |           |            |       |     |               |                |
-|      | [Nio](#nio)                               |      |          |           |            |       |     |               |                |
-|      | [Mirage](#mirage)                         |      |          |           |            |       |     |               |                |
-|      | [Matrix Static](#matrix-static)           |      |          |           |            |       |     |               |                |
-|      | [Matrix IRCd](#matrix-ircd)               |      |          |           |            |       |     |               |                |
-|      | [Ditto](#ditto)                           |      |          |           |            |       |     |               |                |
-|      | [Continuum](#continuum)                   |      |          |           |            |       |     |               |                |
-|      | [AgentSmith](#agentsmith)                 |      |          |           |            |       |     |               |                |
 
 ### Трекери і дозволи
 
@@ -56,7 +42,7 @@ title: Який клієнт Matrix краще?
 |  29  | [SchildiChat](#schildichat) |    1    |   28    |
 |  40  | [FluffyChat](#fluffychat)   |    1    |   39    |
 
-## Рейтинг клієнтів Matrix
+### Рейтинг клієнтів Matrix
 
 Для визначення популярності клієнтів було проведено опитування і далі програми будуть вишикувані за популярністю від найбільш популярних, які ми можемо радити до використання, до менш популярних. Замість опису, далі будуть наведені відгуки після використання програми.
 
