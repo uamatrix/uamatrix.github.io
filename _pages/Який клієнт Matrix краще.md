@@ -35,7 +35,7 @@ title: Який клієнт Matrix краще?
 | [gomuks](#gomuks)                         |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
 | [iamb](#iamb)                             |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |       ❌       |
 | [kazv](#kazv)                             |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
-| [~~matrix-client.el~~](#matrix-client) |      |          |           |            |       |     |               |                |
+| [~~matrix-client.el~~](#matrix-client-el) |      |          |           |            |       |     |               |                |
 | [matrix-commander](#matrix-commander)     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
 | [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                |
 | [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
@@ -339,7 +339,7 @@ Matrix-клієнт для watchOS.
 
 [Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
 
-### matrix-client.el
+### matrix-client el
 
 ![matrix-client.el](/images/matrix-client.el.png)
 
