@@ -46,9 +46,15 @@ title: Який клієнт Matrix краще?
 
 ### Трекери і дозволи
 
-| Назва               | Трекери | Дозволи |
-|---------------------|:-------:|:-------:|
-| [Element](#element) |         |         |
+| Назва                       | Трекери | Дозволи |
+|-----------------------------|:-------:|:-------:|
+| [Ditto](#ditto)             |    0    |    7    |
+| [Element X](#element-x)     |    1    |   17    |
+| [Element](#element)         |    1    |   28    |
+| [FluffyChat](#fluffychat)   |    1    |   39    |
+| [Quadrix](#quadrix)         |    1    |   17    |
+| [SchildiChat](#schildichat) |    1    |   28    |
+| [Syphon](#syphon)           |    0    |   10    |
 
 ## Рейтинг клієнтів Matrix
 
