@@ -1,0 +1,9 @@
+workflow "Deploy" {
+  on = "push"
+  resolves = ["deploy"]
+}
+
+action "deploy" {
+  uses = "nerdify/ping-action@1.0.0"
+  secrets = ["matrix.org"]
+}
