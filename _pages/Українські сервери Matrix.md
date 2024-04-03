@@ -27,7 +27,7 @@ title: Українські сервери Matrix
 
 ## Приватні сервери
 
-| Сервер                                              | Місто |        Адміністратор         |
-|-----------------------------------------------------|:-----:|:----------------------------:|
-| [matrix.opulus.space](https://matrix.opulus.space/) |       | @foresle:matrix.opulus.space |
-| matrix.mrsommelier.com                              | Одеса |                              |
+| Сервер                                              | Місто |           Адміністратор           |
+|-----------------------------------------------------|:-----:|:---------------------------------:|
+| [matrix.opulus.space](https://matrix.opulus.space/) |       |   @foresle:matrix.opulus.space    |
+| matrix.mrsommelier.com                              | Одеса | @sommelier:matrix.mrsommelier.com |
