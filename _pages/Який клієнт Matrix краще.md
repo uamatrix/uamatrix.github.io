@@ -60,21 +60,21 @@ title: Який клієнт Matrix краще?
 
 ![AgentSmith](/images/AgentSmith.png)
 
-#### Опис AgentSmith
+**Опис**
 
 Дозволяє спілкуватись в Matrix за допомогою улюбленого IRC-клієнта.
 
-#### Платформи
+**Платформи**
 
 [Початковий код AgentSmith](https://github.com/nilsding/AgentSmith)
 
 ### chat
 
-#### Опис chat
+**Опис**
 
-#### Відгук про chat
+**Відгук**
 
-#### Платформи
+**Платформи**
 
 [Початковий код chat](https://git.cybre.town/adb/matrix-chat)
 
@@ -82,13 +82,13 @@ title: Який клієнт Matrix краще?
 
 ![Cinny](/images/Cinny.png)
 
-#### Платформи
-
-#### Опис Cinny
+**Опис**
 
 Клієнт Matrix, зосереджений на простому, елегантному та безпечному інтерфейсі. Головна мета — створити зручну для людей програму обміну миттєвими повідомленнями, яка має сучасний вигляд.
 
-#### Відгук про Cinny
+**Відгук**
+
+**Платформи**
 
 [Початковий код Cinny](https://github.com/cinnyapp/cinny)
 
@@ -96,35 +96,33 @@ title: Який клієнт Matrix краще?
 
 ![Commet](/images/Commet.png)
 
-#### Платформи
-
-#### Опис Commet
+**Опис**
 
 Клієнт для Matrix, орієнтований на надання багатофункціонального досвіду при збереженні простого інтерфейсу. Мета полягає в тому, щоб створити безпечний додаток, який поважає конфіденційність, без шкоди для функцій, які ви звикли очікувати від сучасного чат-клієнта.
 
-#### Відгук про Commet
+**Відгук**
+
+**Платформи**
 
 [Початковий код Commet](https://github.com/commetchat/commet)
 
 ### Continuum
 
-#### Платформи
-
-#### Опис Continuum
+**Опис**
 
 Клієнт Matrix написаний на Kotlin.
 
-#### Відгук про Continuum
+**Відгук**
+
+**Платформи**
 
 [Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
 
 ### Ditto
 
-#### Платформи
+**Опис**
 
-#### Опис Ditto
-
-#### Відгук про Ditto
+**Платформи**
 
 [Початковий код Ditto](https://gitlab.com/ditto-chat/ditto)
 
@@ -132,13 +130,11 @@ title: Який клієнт Matrix краще?
 
 ![Element](/images/Element.png)
 
-#### Платформи
-
-#### Опис Element
+**Опис**
 
 Є "еталонним клієнтом", підтримує всі базові функції. Краще інших підходить для новачків, які тільки знайомляться з Matrix.
 
-#### Відгук про Element
+**Платформи**
 
 [Початковий код Element](https://github.com/element-hq)
 
@@ -146,11 +142,9 @@ title: Який клієнт Matrix краще?
 
 ![Element X](/images/Element X.png)
 
-#### Платформи
+**Опис**
 
-#### Опис Element X
-
-#### Відгук про Element X
+**Платформи**
 
 [Початковий код Element X](https://github.com/element-hq)
 
@@ -158,13 +152,11 @@ title: Який клієнт Matrix краще?
 
 ![FluffyChat](/images/FluffyChat.png)
 
-#### Опис FluffyChat
+**Опис**
 
 Це відкритий, некомерційний і симпатичний клієнт Matrix з відкритим вихідним кодом, написаний на Flutter. Мета програми - створити простий у використанні месенджер з відкритим вихідним кодом, доступний для всіх.
 
-#### Відгук про FluffyChat
-
-#### Платформи
+**Платформи**
 
 [Початковий код FluffyChat](https://github.com/krille-chan/fluffychat)
 
@@ -172,14 +164,12 @@ title: Який клієнт Matrix краще?
 
 ![Fractal](/images/Fractal.png)
 
-#### Опис Fractal
+**Опис**
 
 Програма для обміну повідомленнями за протоколом Matrix для GNOME, написана на Rust. Її інтерфейс оптимізовано для
 співпраці у великих групах, таких як проекти вільного програмного забезпечення, і підходить для всіх екранів, великих і малих.
 
-#### Відгук про Fractal
-
-#### Платформи
+**Платформи**
 
 [Початковий код Fractal](https://gitlab.gnome.org/World/fractal)
 
@@ -187,11 +177,9 @@ title: Який клієнт Matrix краще?
 
 ![gomuks](/images/gomuks.png)
 
-#### Опис gomuks
+**Опис**
 
-#### Відгук про gomuks
-
-#### Платформи
+**Платформи**
 
 [Початковий код gomuks](https://github.com/tulir/gomuks)
 
@@ -199,11 +187,9 @@ title: Який клієнт Matrix краще?
 
 ![gotktrix](/images/gotktrix.png)
 
-#### Опис gotktrix
+**Опис**
 
-#### Відгук про gotktrix
-
-#### Платформи
+**Платформи**
 
 [Початковий код gotktrix](https://github.com/diamondburned/gotktrix)
 
@@ -211,13 +197,11 @@ title: Який клієнт Matrix краще?
 
 ![Hydrogen](/images/Hydrogen.png)
 
-#### Опис Hydrogen
+**Опис**
 
 Мінімалістичний клієнт Matrix, зосереджений на продуктивності, офлайн-функціональності та широкій підтримці браузерів.
 
-#### Відгук про Hydrogen
-
-#### Платформи
+**Платформи**
 
 [Початковий код Hydrogen](https://github.com/element-hq/hydrogen-web)
 
@@ -225,11 +209,9 @@ title: Який клієнт Matrix краще?
 
 ![iamb](/images/iamb.png)
 
-#### Опис iamb
+**Опис**
 
-#### Відгук про iamb
-
-#### Платформи
+**Платформи**
 
 [Початковий код iamb](https://github.com/ulyssa/iamb)
 
@@ -237,31 +219,25 @@ title: Який клієнт Matrix краще?
 
 ![kazv](/images/kazv.png)
 
-#### Опис kazv
+**Опис**
 
-#### Відгук про kazv
-
-#### Платформи
+**Платформи**
 
 [Початковий код kazv](https://lily-is.land/kazv/kazv)
 
 ### Matrix IRCd
 
-#### Опис Matrix IRCd
+**Опис**
 
-#### Відгук про Matrix IRCd
-
-#### Платформи
+**Платформи**
 
 [Початковий код Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
 
 ### Matrix Static
 
-#### Опис Matrix Static
+**Опис**
 
-#### Відгук про Matrix Static
-
-#### Платформи
+**Платформи**
 
 [Початковий код Matrix Static](https://github.com/matrix-org/matrix-static)
 
@@ -269,31 +245,25 @@ title: Який клієнт Matrix краще?
 
 ![matrix-client.el](/images/matrix-client.el.png)
 
-#### Опис matrix-client.el
+**Опис**
 
-#### Відгук про matrix-client.el
-
-#### Платформи
+**Платформи**
 
 [Початковий код matrix-client.el](https://github.com/alphapapa/matrix-client.el)
 
 ### matrix-commander
 
-#### Опис matrix-commander
+**Опис**
 
-#### Відгук про matrix-commander
-
-#### Платформи
+**Платформи**
 
 [Початковий код matrix-commander](https://github.com/8go/matrix-commander)
 
 ### matrixcli
 
-#### Опис matrixcli
+**Опис**
 
-#### Відгук про matrixcli
-
-#### Платформи
+**Платформи**
 
 [Початковий код matrixcli](https://github.com/saadjsct/matrixcli)
 
@@ -301,19 +271,17 @@ title: Який клієнт Matrix краще?
 
 ![Mirage](/images/Mirage.png)
 
-#### Опис Mirage
+**Опис**
 
-#### Відгук про Mirage
-
-#### Платформи
+**Платформи**
 
 [Початковий код Mirage](https://github.com/mirukana/mirage)
 
 ### mnotify
 
-#### Опис mnotify
+**Опис**
 
-#### Відгук про mnotify
+**Платформи**
 
 [Початковий код mnotify](https://github.com/rumpelsepp/mnotify/)
 
@@ -321,11 +289,9 @@ title: Який клієнт Matrix краще?
 
 ![NeoChat](/images/NeoChat.png)
 
-#### Опис NeoChat
+**Опис**
 
-#### Відгук про NeoChat
-
-#### Платформи
+**Платформи**
 
 [Початковий код NeoChat](https://invent.kde.org/network/neochat)
 
@@ -333,13 +299,9 @@ title: Який клієнт Matrix краще?
 
 ![Nheko](/images/Nheko.png)
 
-#### Платформи
+**Опис**
 
-#### Опис Nheko
-
-#### Відгук про Nheko
-
-#### Платформи
+**Платформи**
 
 [Початковий код Nheko](https://github.com/Nheko-Reborn/nheko)
 
@@ -347,11 +309,9 @@ title: Який клієнт Matrix краще?
 
 ![Nio](/images/Nio.png)
 
-#### Опис Nio
+**Опис**
 
-#### Відгук про Nio
-
-#### Платформи
+**Платформи**
 
 [Початковий код Nio](https://github.com/niochat/nio)
 
@@ -359,11 +319,9 @@ title: Який клієнт Matrix краще?
 
 ![Quadrix](/images/Quadrix.png)
 
-#### Опис Quadrix
+**Опис**
 
-#### Відгук про Quadrix
-
-#### Платформи
+**Платформи**
 
 [Початковий код Quadrix](https://github.com/alariej/quadrix)
 
@@ -371,11 +329,9 @@ title: Який клієнт Matrix краще?
 
 ![Quaternion](/images/Quaternion.png)
 
-#### Опис Quaternion
+**Опис**
 
-#### Відгук про Quaternion
-
-#### Платформи
+**Платформи**
 
 [Початковий код Quaternion](https://github.com/quotient-im/Quaternion) 
 
@@ -383,9 +339,9 @@ title: Який клієнт Matrix краще?
 
 ![quickmedia](/images/quickmedia.png)
 
-#### Опис quickmedia
+**Опис**
 
-#### Відгук про quickmedia
+**Платформи**
 
 [Початковий код quickmedia](https://git.dec05eba.com/QuickMedia/about/)
 
@@ -393,11 +349,9 @@ title: Який клієнт Matrix краще?
 
 ![Rambox CE](/images/Rambox CE.png)
 
-#### Опис Rambox CE
+**Опис**
 
-#### Відгук про Rambox CE
-
-#### Платформи
+**Платформи**
 
 [Початковий код Rambox CE](https://github.com/ramboxapp/community-edition)
 
@@ -405,13 +359,13 @@ title: Який клієнт Matrix краще?
 
 ![SchildiChat](/images/SchildiChat.png)
 
-#### Опис SchildiChat
+**Опис**
 
 Той же Element, але з оптимізованим кодом тому працює трохи швидше. Підтримує всі функції Element. Також рекомендований новачкам.
 
-#### Відгук про SchildiChat
+**Відгук**
 
-#### Платформи
+**Платформи**
 
 [Початковий код SchildiChat](https://github.com/SchildiChat)
 
@@ -419,11 +373,9 @@ title: Який клієнт Matrix краще?
 
 ![Scylla](/images/Scylla.png)
 
-#### Опис Scylla
+**Опис**
 
-#### Відгук про Scylla
-
-#### Платформи
+**Платформи**
 
 [Початковий код Scylla](https://github.com/DanilaFe/Scylla)
 
