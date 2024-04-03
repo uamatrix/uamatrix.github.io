@@ -29,5 +29,4 @@ title: Українські сервери Matrix
 
 | Сервер                                              | Місто | Адміністратор                     |
 |-----------------------------------------------------|:-----:|-----------------------------------|
-| [matrix.opulus.space](https://matrix.opulus.space/) |       | @foresle:matrix.opulus.space      |
-| matrix.mrsommelier.com                              | Одеса | @sommelier:matrix.mrsommelier.com |
+| [mastodon.vn.ua](https://mastodon.vn.ua/)           |       |                                   |
