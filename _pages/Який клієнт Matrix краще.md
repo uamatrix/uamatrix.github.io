@@ -8,25 +8,39 @@ title: Який клієнт Matrix краще?
 
 | Назва            | E2ee | Простори | Voip 1to1 | Voip Jitsi | Гілки | Sso | Мультиаккаунт | Multi Language |
 |------------------|:----:|:--------:|:---------:|:----------:|:-----:|-----|:-------------:|:--------------:|
+| AgentSmith       |      |          |           |            |       |     |               |                |
 | Cinny            |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
 | Commet           |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |       ❌       |
+| Continuum        |      |          |           |            |       |     |               |                |
+| Ditto            |      |          |           |            |       |     |               |                |
 | Element X        |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
 | FluffyChat       |  ✅  |    ✅    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
 | Fractal          |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ✅       |
 | Hydrogen         |  ✅  |    ❌    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
+| Matrix IRCd      |      |          |           |            |       |     |               |                |
+| Matrix Static    |      |          |           |            |       |     |               |                |
+| Mirage           |      |          |           |            |       |     |               |                |
 | NeoChat          |  ✅  |    ✅    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
 | Nheko            |  ✅  |    ✅    |    ✅     |     ❌     |  ✅   | ✅  |      ❌       |       ✅       |
+| Nio              |      |          |           |            |       |     |               |                |
 | Quadrix          |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
 | Quaternion       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ❌       |
+| Rambox CE        |      |          |           |            |       |     |               |                |
 | SchildiChat      |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ✅       |       ❌       |
+| Scylla           |      |          |           |            |       |     |               |                |
+| Spectral         |      |          |           |            |       |     |               |                |
 | Syphon           |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
 | Thunderbird      |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+| chat             |      |          |           |            |       |     |               |                |
 | gomuks           |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
 | iamb             |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |       ❌       |
 | kazv             |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
+| matrix-client.el |      |          |           |            |       |     |               |                |
 | matrix-commander |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
+| matrixcli        |      |          |           |            |       |     |               |                |
+| mnotify          |      |          |           |            |       |     |               |                |
 | mnotify          |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
-| ~~AgentSmith~~   |      |          |           |            |       |     |               |                |
+| quickmedia       |      |          |           |            |       |     |               |                |
 
 ## Клієнти Matrix за популярністю
 
