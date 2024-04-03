@@ -443,11 +443,11 @@ title: Який клієнт Matrix краще?
 
 ![Syphon](/images/Syphon.png)
 
-#### Опис Syphon
+**Опис**
 
-#### Відгук про Syphon
+**Відгук**
 
-#### Платформи
+**Платформи**
 
 [Початковий код Syphon](https://github.com/syphon-org/syphon)
 
@@ -455,11 +455,11 @@ title: Який клієнт Matrix краще?
 
 ![Thunderbird](/images/Thunderbird.png)
 
-#### Опис Thunderbird
+**Опис Thunderbird**
 
-#### Відгук про Thunderbird
+**Відгук про Thunderbird**
 
-#### Платформи
+**Платформи**
 
 [Початковий код Thunderbird](https://hg.mozilla.org/comm-central)
 
