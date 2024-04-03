@@ -17,9 +17,18 @@ title: Українські сервери Matrix
 - [matrix.rivne.dcomm.net.ua](https://chat.rivne.dcomm.net.ua) - Рівне.
 - matrix.lviv.dcomm.net.ua - Львів.
 
-| Сервер                                                           | Місто  | Адміністратор |
-|------------------------------------------------------------------|--------|---------------|
-| [matrix.kharkiv.dcomm.net.ua](https://chat.kharkiv.dcomm.net.ua) | Харків | Адіміністратор |
+| Сервер                                                                      | Місто        | Адміністратор |   |
+|-----------------------------------------------------------------------------|--------------|---------------|---|
+| [matrix.kharkiv.dcomm.net.ua](https://chat.kharkiv.dcomm.net.ua)            | Харків       |               |   |
+| [matrix.kherson.dcomm.net.ua](https://chat.kherson.dcomm.net.ua/)           | Херсон       |               |   |
+| [matrix.khmelnytskyi.dcomm.net.ua](https://chat.khmelnytskyi.dcomm.net.ua/) | Хмельницький |               |   |
+| [matrix.kyiv.dcomm.net.ua](https://chat.kyiv.dcomm.net.ua/) | Київ | |
+| [matrix.lviv2.dcomm.net.ua](https://chat.lviv2.dcomm.net.ua/) | Львів | |
+| [matrix.mykolayiv.dcomm.net.ua](https://chat.mykolayiv.dcomm.net.ua/) | Миколаїв | |
+| [matrix.odessa.dcomm.net.ua](https://matrix.odessa.dcomm.net.ua) | Одеса | |
+| [matrix.poltava.dcomm.net.ua](https://poltava.dcomm.net.ua/) | Полтава |   |
+| [matrix.rivne.dcomm.net.ua](https://chat.rivne.dcomm.net.ua) | Рівне   |   |
+| matrix.lviv.dcomm.net.ua                                     | Львів   |   |
 
 ## Приватні сервери
 
