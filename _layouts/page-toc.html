@@ -10,8 +10,10 @@ layout: default
     Оновлено: {{ "now" | date: "%Y.%m.%d" }}
   </div>
 
+  <div class="toc">
+      {% include toc.html html=content %}
+  </div>
   <div class="entry">
-    {% include toc.html html=content %}
     {{ content }}
   </div>
 </article>
