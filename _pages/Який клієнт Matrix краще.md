@@ -6,40 +6,40 @@ title: Який клієнт Matrix краще?
 
 ## Порівняння клієнтів Matrix
 
-| Назва                                 | E2ee | Простори | Voip 1на1 | Voip Jitsi | Гілки | Sso | Мультиаккаунт | Багатомовність |
-|---------------------------------------|:----:|:--------:|:---------:|:----------:|:-----:|-----|:-------------:|:--------------:|
-| [AgentSmith](#agentsmith)             |      |          |           |            |       |     |               |                |
-| [Cinny](#cinny)                       |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
-| [Commet](#commet)                     |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |       ❌       |
-| [Continuum](#continuum)               |      |          |           |            |       |     |               |                |
-| [Ditto](#ditto)                       |      |          |           |            |       |     |               |                |
-| [Element X](#element-x)               |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
-| [FluffyChat](#fluffychat)             |  ✅  |    ✅    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
-| [Fractal](#fractal)                   |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ✅       |
-| [Hydrogen](#hydrogen)                 |  ✅  |    ❌    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
-| [Matrix IRCd](#matrix-ircd)           |      |          |           |            |       |     |               |                |
-| [Matrix Static](#matrix-static)       |      |          |           |            |       |     |               |                |
-| [Mirage](#mirage)                     |      |          |           |            |       |     |               |                |
-| [NeoChat](#neochat)                   |  ✅  |    ✅    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
-| [Nheko](#nheko)                       |  ✅  |    ✅    |    ✅     |     ❌     |  ✅   | ✅  |      ❌       |       ✅       |
-| [Nio](#nio)                           |      |          |           |            |       |     |               |                |
-| [Quadrix](#quadrix)                   |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
-| [Quaternion](#quaternion)             |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ❌       |
-| [~~Rambox CE~~](#rambox-ce)           |      |          |           |            |       |     |               |                |
-| [SchildiChat](#schildichat)           |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ✅       |       ❌       |
-| [Scylla](#scylla)                     |      |          |           |            |       |     |               |                |
-| [Spectral](#spectral)                 |      |          |           |            |       |     |               |                |
-| [Syphon](#syphon)                     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
-| [Thunderbird](#thunderbird)           |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
-| [chat](#chat)                         |      |          |           |            |       |     |               |                |
-| [gomuks](#gomuks)                     |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
-| [iamb](#iamb)                         |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |       ❌       |
-| [kazv](#kazv)                         |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
-| [matrix-client.el](#matrix-client-el) |      |          |           |            |       |     |               |                |
-| [matrix-commander](#matrix-commander) |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
-| [matrixcli](#matrixcli)               |      |          |           |            |       |     |               |                |
-| [mnotify](#mnotify)                   |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
-| [quickmedia](#quickmedia)             |      |          |           |            |       |     |               |                |
+| Назва                                     | E2ee | Простори | Voip 1на1 | Voip Jitsi | Гілки | Sso | Мультиаккаунт | Багатомовність |
+|-------------------------------------------|:----:|:--------:|:---------:|:----------:|:-----:|-----|:-------------:|:--------------:|
+| [AgentSmith](#agentsmith)                 |      |          |           |            |       |     |               |                |
+| [Cinny](#cinny)                           |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
+| [Commet](#commet)                         |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |       ❌       |
+| [Continuum](#continuum)                   |      |          |           |            |       |     |               |                |
+| [Ditto](#ditto)                           |      |          |           |            |       |     |               |                |
+| [Element X](#element-x)                   |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
+| [FluffyChat](#fluffychat)                 |  ✅  |    ✅    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
+| [Fractal](#fractal)                       |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ✅       |
+| [Hydrogen](#hydrogen)                     |  ✅  |    ❌    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |       ✅       |
+| [Matrix IRCd](#matrix-ircd)               |      |          |           |            |       |     |               |                |
+| [Matrix Static](#matrix-static)           |      |          |           |            |       |     |               |                |
+| [Mirage](#mirage)                         |      |          |           |            |       |     |               |                |
+| [NeoChat](#neochat)                       |  ✅  |    ✅    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+| [Nheko](#nheko)                           |  ✅  |    ✅    |    ✅     |     ❌     |  ✅   | ✅  |      ❌       |       ✅       |
+| [Nio](#nio)                               |      |          |           |            |       |     |               |                |
+| [Quadrix](#quadrix)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
+| [Quaternion](#quaternion)                 |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ❌       |
+| [~~Rambox CE~~](#rambox-ce)               |      |          |           |            |       |     |               |                |
+| [SchildiChat](#schildichat)               |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ✅       |       ❌       |
+| [Scylla](#scylla)                         |      |          |           |            |       |     |               |                |
+| [Spectral](#spectral)                     |      |          |           |            |       |     |               |                |
+| [Syphon](#syphon)                         |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+| [Thunderbird](#thunderbird)               |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
+| [chat](#chat)                             |      |          |           |            |       |     |               |                |
+| [gomuks](#gomuks)                         |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
+| [iamb](#iamb)                             |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |       ❌       |
+| [kazv](#kazv)                             |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
+| [~~matrix-client.el~~](#matrix-client-el) |      |          |           |            |       |     |               |                |
+| [matrix-commander](#matrix-commander)     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
+| [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                |
+| [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
+| [quickmedia](#quickmedia)                 |      |          |           |            |       |     |               |                |
 
 ## Клієнти Matrix за популярністю
 
@@ -323,7 +323,7 @@ Matrix-клієнт для watchOS.
 
 [Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
 
-### matrix-client.el
+### matrix-client el
 
 ![matrix-client.el](/images/matrix-client.el.png)
 
