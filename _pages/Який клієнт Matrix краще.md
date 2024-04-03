@@ -13,7 +13,7 @@ title: Який клієнт Matrix краще?
 | [Commet](#commet)                         |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |         ❌          |
 | [Continuum](#continuum)                   |      |          |           |            |       |     |               |                     |
 | [Ditto](#ditto)                           |      |          |           |            |       |     |               |                     |
-| [Element](#element)                       |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ❌       |                     |
+| [Element](#element)                       |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ❌       |         ✅          |
 | [Element X](#element-x)                   |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |         ✅          |
 | [FluffyChat](#fluffychat)                 |  ✅  |    ✅    |    ✅     |     ✅     |  ❌   | ✅  |      ✅       |         ✅          |
 | [Fractal](#fractal)                       |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |         ✅          |
