@@ -415,5 +415,6 @@ Matrix-клієнт для watchOS.
 
 За матеріалами:
 
-- [delightful matrix](https://codeberg.org/yarmo/delightful-matrix)
-- [Clients](https://matrix.org/ecosystem/clients/)
+- [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
+- [Clients](https://matrix.org/ecosystem/clients/).
+- [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
