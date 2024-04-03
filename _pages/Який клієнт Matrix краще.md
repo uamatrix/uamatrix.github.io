@@ -35,7 +35,7 @@ title: Який клієнт Matrix краще?
 | [gomuks](#gomuks)                         |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
 | [iamb](#iamb)                             |  ✅  |    ✅    |    ❌     |     ❌     |  ✅   | ✅  |      ✅       |       ❌       |
 | [kazv](#kazv)                             |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ✅       |
-| [~~matrix-client.el~~](#matrix-client-el) |      |          |           |            |       |     |               |                |
+| [~~matrix-client.el~~](#matrix-client) |      |          |           |            |       |     |               |                |
 | [matrix-commander](#matrix-commander)     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
 | [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                |
 | [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
@@ -51,9 +51,9 @@ title: Який клієнт Matrix краще?
 
 ![AgentSmith](/images/AgentSmith.png)
 
-#### Опис
+#### Опис AgentSmith
 
-#### Відгук
+#### Відгук про AgentSmith
 
 [Початковий код AgentSmith](https://github.com/nilsding/AgentSmith)
 
@@ -61,21 +61,29 @@ title: Який клієнт Matrix краще?
 
 ![Cinny](/images/Cinny.png)
 
+#### Опис Cinny
+
+#### Відгук про Cinny
+
 [Початковий код Cinny](https://github.com/cinnyapp/cinny)
-
-#### Опис
-
-#### Відгук
 
 ### Commet
 
 ![Commet](/images/Commet.png)
+
+#### Опис Commet
+
+#### Відгук про Commet
 
 [Початковий код Commet](https://github.com/commetchat/commet)
 
 ### Element X
 
 ![Element X](/images/Element X.png)
+
+#### Опис Element X
+
+#### Відгук про Element X
 
 [Початковий код Element X](https://github.com/element-hq)
 
@@ -85,9 +93,9 @@ title: Який клієнт Matrix краще?
 
 Є "еталонним клієнтом", підтримує всі базові функції. Краще інших підходить для новачків, які тільки знайомляться з Matrix.
 
-#### Опис
+#### Опис Element
 
-#### Відгук
+#### Відгук про Element
 
 [Початковий код Element](https://github.com/element-hq)
 
@@ -95,9 +103,9 @@ title: Який клієнт Matrix краще?
 
 ![FluffyChat](/images/FluffyChat.png)
 
-#### Опис
+#### Опис FluffyChat
 
-#### Відгук
+#### Відгук про FluffyChat
 
 [Початковий код FluffyChat](https://github.com/krille-chan/fluffychat)
 
@@ -105,9 +113,9 @@ title: Який клієнт Matrix краще?
 
 ![Fractal](/images/Fractal.png)
 
-#### Опис
+#### Опис Fractal
 
-#### Відгук
+#### Відгук про Fractal
 
 [Початковий код Fractal](https://gitlab.gnome.org/World/fractal)
 
@@ -115,9 +123,9 @@ title: Який клієнт Matrix краще?
 
 ![Hydrogen](/images/Hydrogen.png)
 
-#### Опис
+#### Опис Hydrogen
 
-#### Відгук
+#### Відгук про Hydrogen
 
 [Початковий код Hydrogen](https://github.com/element-hq/hydrogen-web)
 
@@ -125,9 +133,9 @@ title: Який клієнт Matrix краще?
 
 ![Mirage](/images/Mirage.png)
 
-#### Опис
+#### Опис Mirage
 
-#### Відгук
+#### Відгук про Mirage
 
 [Початковий код Mirage](https://github.com/mirukana/mirage)
 
@@ -135,9 +143,9 @@ title: Який клієнт Matrix краще?
 
 ![NeoChat](/images/NeoChat.png)
 
-#### Опис
+#### Опис NeoChat
 
-#### Відгук
+#### Відгук про NeoChat
 
 [Початковий код NeoChat](https://invent.kde.org/network/neochat)
 
@@ -145,9 +153,9 @@ title: Який клієнт Matrix краще?
 
 ![Nheko](/images/Nheko.png)
 
-#### Опис
+#### Опис Nheko
 
-#### Відгук
+#### Відгук про Nheko
 
 [Початковий код Nheko](https://github.com/Nheko-Reborn/nheko)
 
@@ -155,11 +163,19 @@ title: Який клієнт Matrix краще?
 
 ![Quadrix](/images/Quadrix.png)
 
+#### Опис Quadrix
+
+#### Відгук про Quadrix
+
 [Початковий код Quadrix](https://github.com/alariej/quadrix)
 
 ### Quaternion
 
 ![Quaternion](/images/Quaternion.png)
+
+#### Опис Quaternion
+
+#### Відгук про Quaternion
 
 [Початковий код Quaternion](https://github.com/quotient-im/Quaternion) 
 
@@ -167,9 +183,9 @@ title: Який клієнт Matrix краще?
 
 ![quickmedia](/images/quickmedia.png)
 
-#### Опис
+#### Опис quickmedia
 
-#### Відгук
+#### Відгук про quickmedia
 
 [Початковий код quickmedia](https://git.dec05eba.com/QuickMedia/about/)
 
@@ -179,9 +195,9 @@ title: Який клієнт Matrix краще?
 
 Той же Element, але з оптимізованим кодом тому працює трохи швидше. Підтримує всі функції Element. Також рекомендований новачкам.
 
-#### Опис
+#### Опис SchildiChat
 
-#### Відгук
+#### Відгук про SchildiChat
 
 [Початковий код SchildiChat](https://github.com/SchildiChat)
 
@@ -189,9 +205,9 @@ title: Який клієнт Matrix краще?
 
 ![Spectral](/images/Spectral.png)
 
-#### Опис
+#### Опис Spectral
 
-#### Відгук
+#### Відгук про Spectral
 
 [Початковий код Spectral](https://gitlab.com/spectral-im/spectral)
 
@@ -199,9 +215,9 @@ title: Який клієнт Matrix краще?
 
 ![Syphon](/images/Syphon.png)
 
-#### Опис
+#### Опис Syphon
 
-#### Відгук
+#### Відгук про Syphon
 
 [Початковий код Syphon](https://github.com/syphon-org/syphon)
 
@@ -209,9 +225,9 @@ title: Який клієнт Matrix краще?
 
 ![Thunderbird](/images/Thunderbird.png)
 
-#### Опис
+#### Опис Thunderbird
 
-#### Відгук
+#### Відгук про Thunderbird
 
 [Початковий код Thunderbird](https://hg.mozilla.org/comm-central)
 
@@ -219,9 +235,9 @@ title: Який клієнт Matrix краще?
 
 Matrix-клієнт для watchOS.
 
-#### Опис
+#### Опис Watch The Matrix
 
-#### Відгук
+#### Відгук про Watch The Matrix
 
 [Початковий код Watch The Matrix](https://github.com/pixlwave/Watch-The-Matrix)
 
@@ -229,9 +245,9 @@ Matrix-клієнт для watchOS.
 
 ![gomuks](/images/gomuks.png)
 
-#### Опис
+#### Опис gomuks
 
-#### Відгук
+#### Відгук про gomuks
 
 [Початковий код gomuks](https://github.com/tulir/gomuks)
 
@@ -239,9 +255,9 @@ Matrix-клієнт для watchOS.
 
 ![gotktrix](/images/gotktrix.png)
 
-#### Опис
+#### Опис gotktrix
 
-#### Відгук
+#### Відгук про gotktrix
 
 [Початковий код gotktrix](https://github.com/diamondburned/gotktrix)
 
@@ -249,9 +265,9 @@ Matrix-клієнт для watchOS.
 
 ![iamb](/images/iamb.png)
 
-#### Опис
+#### Опис iamb
 
-#### Відгук
+#### Відгук про iamb
 
 [Початковий код iamb](https://github.com/ulyssa/iamb)
 
@@ -259,49 +275,49 @@ Matrix-клієнт для watchOS.
 
 ![kazv](/images/kazv.png)
 
-#### Опис
+#### Опис kazv
 
-#### Відгук
+#### Відгук про kazv
 
 [Початковий код kazv](https://lily-is.land/kazv/kazv)
 
 ### matrix-commander
 
-#### Опис
+#### Опис matrix-commander
 
-#### Відгук
+#### Відгук про matrix-commander
 
 [Початковий код matrix-commander](https://github.com/8go/matrix-commander)
 
 ### mnotify
 
-#### Опис
+#### Опис mnotify
 
-#### Відгук
+#### Відгук про mnotify
 
 [Початковий код mnotify](https://github.com/rumpelsepp/mnotify/)
 
 ### chat
 
-#### Опис
+#### Опис chat
 
-#### Відгук
+#### Відгук про chat
 
 [Початковий код chat](https://git.cybre.town/adb/matrix-chat)
 
 ### Ditto
 
-#### Опис
+#### Опис Ditto
 
-#### Відгук
+#### Відгук про Ditto
 
 [Початковий код Ditto](https://gitlab.com/ditto-chat/ditto)
 
 ### Matrix Static
 
-#### Опис
+#### Опис Matrix Static
 
-#### Відгук
+#### Відгук про Matrix Static
 
 [Початковий код Matrix Static](https://github.com/matrix-org/matrix-static)
 
@@ -309,35 +325,35 @@ Matrix-клієнт для watchOS.
 
 ![Nio](/images/Nio.png)
 
-#### Опис
+#### Опис Nio
 
-#### Відгук
+#### Відгук про Nio
 
 [Початковий код Nio](https://github.com/niochat/nio)
 
 ### Continuum
 
-#### Опис
+#### Опис Continuum
 
-#### Відгук
+#### Відгук про Continuum
 
 [Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
 
-### matrix-client el
+### matrix-client.el
 
 ![matrix-client.el](/images/matrix-client.el.png)
 
-#### Опис
+#### Опис matrix-client.el
 
-#### Відгук
+#### Відгук про matrix-client.el
 
 [Початковий код matrix-client.el](https://github.com/alphapapa/matrix-client.el)
 
 ### Matrix IRCd
 
-#### Опис
+#### Опис Matrix IRCd
 
-#### Відгук
+#### Відгук про Matrix IRCd
 
 [Початковий код Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
 
@@ -345,9 +361,9 @@ Matrix-клієнт для watchOS.
 
 ![Scylla](/images/Scylla.png)
 
-#### Опис
+#### Опис Scylla
 
-#### Відгук
+#### Відгук про Scylla
 
 [Початковий код Scylla](https://github.com/DanilaFe/Scylla)
 
@@ -355,17 +371,17 @@ Matrix-клієнт для watchOS.
 
 ![Rambox CE](/images/Rambox CE.png)
 
-#### Опис
+#### Опис Rambox CE
 
-#### Відгук
+#### Відгук про Rambox CE
 
 [Початковий код Rambox CE](https://github.com/ramboxapp/community-edition)
 
 ### matrixcli
 
-#### Опис
+#### Опис matrixcli
 
-#### Відгук
+#### Відгук про matrixcli
 
 [Початковий код matrixcli](https://github.com/saadjsct/matrixcli)
 
