@@ -9,8 +9,17 @@ title: Який клієнт Matrix вибрати?
 ## Опис клієнтів Matrix
 
 ### Cinny
+
+![Cinny](/images/Cinny.png)
+
 ### Commet
+
+![Commet](/images/Commet.png)
+
 ### Element X
+
+![Element X](/images/Element\ X.png)
+
 ### Element
 
 ![Element](/images/Element.png)
@@ -22,21 +31,37 @@ title: Який клієнт Matrix вибрати?
 ![FluffyChat](/images/FluffyChat.png)
 
 ### Fractal
+
+![Fractal](/images/Fractal.png)
+
 ### Hydrogen
+
 ### NeoChat
+
 ### Nheko
+
 ### Quadrix
+
 ### Quaternion
+
 ### SchildiChat
 
 Той же Element, але з оптимізованим кодом тому працює трохи швидше. Підтримує всі функції Element. Також рекомендований новачкам.
 
 ### Syphon
+
 ### Thunderbird
+
 ### Watch The Matrix
+
 ### gomuks
+
 ### gotktrix
+
 ### iamb
+
 ### kazv
+
 ### matrix-commander
+
 ### mnotify
