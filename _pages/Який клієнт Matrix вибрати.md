@@ -37,6 +37,7 @@ title: Який клієнт Matrix вибрати?
 ### Hydrogen
 
 ![Hydrogen](/imeges/Hydrogen.png)
+![Hydrogen](/images/Hydrogen.png)
 
 ### NeoChat
 
