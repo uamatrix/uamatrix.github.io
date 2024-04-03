@@ -13,11 +13,13 @@ title: Який клієнт Matrix вибрати?
 ### Element X
 ### Element
 
-![Element](/image/Element.png)
+![Element](/images/Element.png)
 
 Є "еталонним клієнтом", підтримує всі базові функції. Краще інших підходить для новачків, які тільки знайомляться з Matrix.
 
 ### FluffyChat
+
+![FluffyChat](/images/FluffyChat.png)
 
 ### Fractal
 ### Hydrogen
