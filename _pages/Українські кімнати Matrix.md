@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Українські кімнати Matrix
 ---
 - [Патріотична Україна](https://matrix.to/#/#ukraine.all:matrix.org)
