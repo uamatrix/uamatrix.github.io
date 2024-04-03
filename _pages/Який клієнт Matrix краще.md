@@ -246,6 +246,8 @@ Matrix-клієнт для watchOS.
 
 [Початковий код matrixcli](https://github.com/saadjsct/matrixcli)
 
+---
+
 За матеріалами:
 
 - [delightful matrix](https://codeberg.org/yarmo/delightful-matrix)
