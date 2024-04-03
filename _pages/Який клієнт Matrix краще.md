@@ -43,6 +43,7 @@ title: Який клієнт Matrix краще?
 | [matrixcli](#matrixcli)                   |      |          |           |            |       |     |               |                     |
 | [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |         ❌          |
 | [quickmedia](#quickmedia)                 |      |          |           |            |       |     |               |                     |
+
 ### Трекери і дозволи
 
 | Назва | Трекери | Дозволи |
