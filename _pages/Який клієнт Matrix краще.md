@@ -46,9 +46,13 @@ title: Який клієнт Matrix краще?
 
 Для визначення популярності клієнтів було проведено опитування і далі програми будуть вишикувані за популярністю від найбільш популярних, які ми можемо радити до використання, до менш популярних. Замість опису, далі будуть наведені відгуки після використання програми.
 
+1. Element
+2. Element X
+2. Fractal
+2. SchildiChat
+3. Cinny
 
-
-## Відгуки про використання клієнтів Matrix
+## Опис клієнтів Matrix та відгуки про їх використання
 
 ### AgentSmith
 
@@ -80,15 +84,21 @@ title: Який клієнт Matrix краще?
 
 [Початковий код Commet](https://github.com/commetchat/commet)
 
-### Element X
+### Continuum
 
-![Element X](/images/Element X.png)
+#### Опис Continuum
 
-#### Опис Element X
+#### Відгук про Continuum
 
-#### Відгук про Element X
+[Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
 
-[Початковий код Element X](https://github.com/element-hq)
+### Ditto
+
+#### Опис Ditto
+
+#### Відгук про Ditto
+
+[Початковий код Ditto](https://gitlab.com/ditto-chat/ditto)
 
 ### Element
 
@@ -101,6 +111,16 @@ title: Який клієнт Matrix краще?
 #### Відгук про Element
 
 [Початковий код Element](https://github.com/element-hq)
+
+### Element X
+
+![Element X](/images/Element X.png)
+
+#### Опис Element X
+
+#### Відгук про Element X
+
+[Початковий код Element X](https://github.com/element-hq)
 
 ### FluffyChat
 
@@ -132,6 +152,22 @@ title: Який клієнт Matrix краще?
 
 [Початковий код Hydrogen](https://github.com/element-hq/hydrogen-web)
 
+### Matrix IRCd
+
+#### Опис Matrix IRCd
+
+#### Відгук про Matrix IRCd
+
+[Початковий код Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
+
+### Matrix Static
+
+#### Опис Matrix Static
+
+#### Відгук про Matrix Static
+
+[Початковий код Matrix Static](https://github.com/matrix-org/matrix-static)
+
 ### Mirage
 
 ![Mirage](/images/Mirage.png)
@@ -161,6 +197,16 @@ title: Який клієнт Matrix краще?
 #### Відгук про Nheko
 
 [Початковий код Nheko](https://github.com/Nheko-Reborn/nheko)
+
+### Nio
+
+![Nio](/images/Nio.png)
+
+#### Опис Nio
+
+#### Відгук про Nio
+
+[Початковий код Nio](https://github.com/niochat/nio)
 
 ### Quadrix
 
@@ -308,40 +354,6 @@ Matrix-клієнт для watchOS.
 
 [Початковий код chat](https://git.cybre.town/adb/matrix-chat)
 
-### Ditto
-
-#### Опис Ditto
-
-#### Відгук про Ditto
-
-[Початковий код Ditto](https://gitlab.com/ditto-chat/ditto)
-
-### Matrix Static
-
-#### Опис Matrix Static
-
-#### Відгук про Matrix Static
-
-[Початковий код Matrix Static](https://github.com/matrix-org/matrix-static)
-
-### Nio
-
-![Nio](/images/Nio.png)
-
-#### Опис Nio
-
-#### Відгук про Nio
-
-[Початковий код Nio](https://github.com/niochat/nio)
-
-### Continuum
-
-#### Опис Continuum
-
-#### Відгук про Continuum
-
-[Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
-
 ### matrix-client el
 
 ![matrix-client.el](/images/matrix-client.el.png)
@@ -351,14 +363,6 @@ Matrix-клієнт для watchOS.
 #### Відгук про matrix-client.el
 
 [Початковий код matrix-client.el](https://github.com/alphapapa/matrix-client.el)
-
-### Matrix IRCd
-
-#### Опис Matrix IRCd
-
-#### Відгук про Matrix IRCd
-
-[Початковий код Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
 
 ### Scylla
 
