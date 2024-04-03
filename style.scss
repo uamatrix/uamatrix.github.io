@@ -279,10 +279,8 @@ nav {
   background-color: $lightGray;
 }
 
-.table-wrapper {
-    overflow: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
+table, th, td {
+  border: 1px solid;
 }
 
 footer {
