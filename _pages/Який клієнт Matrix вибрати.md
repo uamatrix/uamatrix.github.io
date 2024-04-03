@@ -80,6 +80,8 @@ title: Який клієнт Matrix вибрати?
 
 ### quickmedia
 
+![quickmedia](/images/quickmedia.png)
+
 [Початковий код quickmedia](https://git.dec05eba.com/QuickMedia/about/)
 
 ### SchildiChat
