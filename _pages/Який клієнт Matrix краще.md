@@ -25,7 +25,7 @@ title: Який клієнт Matrix краще?
 | Nio              |      |          |           |            |       |     |               |                |
 | Quadrix          |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
 | Quaternion       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ❌       |
-| Rambox CE        |      |          |           |            |       |     |               |                |
+| ~~Rambox CE~~    |      |          |           |            |       |     |               |                |
 | SchildiChat      |  ✅  |    ✅    |    ✅     |     ✅     |  ✅   | ✅  |      ✅       |       ❌       |
 | Scylla           |      |          |           |            |       |     |               |                |
 | Spectral         |      |          |           |            |       |     |               |                |
@@ -246,6 +246,7 @@ Matrix-клієнт для watchOS.
 
 [Початковий код matrixcli](https://github.com/saadjsct/matrixcli)
 
-##
+За матеріалами:
 
-[delightful matrix](https://codeberg.org/yarmo/delightful-matrix)
+- [delightful matrix](https://codeberg.org/yarmo/delightful-matrix)
+- [Clients](https://matrix.org/ecosystem/clients/)
