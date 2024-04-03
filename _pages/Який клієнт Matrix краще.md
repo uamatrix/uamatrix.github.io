@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Який клієнт Matrix краще?
-toc: true
 ---
 Для протокола Matrix існує багато клієнтів, функції яких можуть сильно відрізнятись. Клієнт може пропонувати як додаткові можливості, так і не мати можливостей, що присутні в інших клієнтах. Тому перед тим як встановлювати програму, краще подивитись її можливості на [сторінці клієнтів Matrix](https://matrix.org/ecosystem/clients/) або на сторінці початкового коду програми.
 
@@ -466,13 +465,13 @@ toc: true
 
 ### Watch The Matrix
 
-#### Опис Watch The Matrix
+**Опис Watch The Matrix**
 
 Matrix-клієнт для watchOS.
 
-#### Відгук про Watch The Matrix
+**Відгук про Watch The Matrix**
 
-#### Платформи
+**Платформи**
 
 [Початковий код Watch The Matrix](https://github.com/pixlwave/Watch-The-Matrix)
 
