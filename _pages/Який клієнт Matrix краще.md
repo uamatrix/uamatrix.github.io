@@ -72,9 +72,7 @@ title: Який клієнт Matrix краще?
 
 **Опис**
 
-**Відгук**
-
-**Платформи**
+Простий веб-застосунок Matrix для мобільних пристроїв і комп’ютерів, написаний за допомогою Vue у JavaScript.
 
 [Початковий код chat](https://git.cybre.town/adb/matrix-chat)
 
@@ -88,7 +86,7 @@ title: Який клієнт Matrix краще?
 
 **Відгук**
 
-**Платформи**
+Платформи: [Web](https://app.cinny.in/). 
 
 [Початковий код Cinny](https://github.com/cinnyapp/cinny)
 
@@ -100,9 +98,7 @@ title: Який клієнт Matrix краще?
 
 Клієнт для Matrix, орієнтований на надання багатофункціонального досвіду при збереженні простого інтерфейсу. Мета полягає в тому, щоб створити безпечний додаток, який поважає конфіденційність, без шкоди для функцій, які ви звикли очікувати від сучасного чат-клієнта.
 
-**Відгук**
-
-**Платформи**
+Платформи: Windows, Linux, Android.
 
 [Початковий код Commet](https://github.com/commetchat/commet)
 
@@ -112,17 +108,13 @@ title: Який клієнт Matrix краще?
 
 Клієнт Matrix написаний на Kotlin.
 
-**Відгук**
-
-**Платформи**
+Платформи: Linux, macOS.
 
 [Початковий код Continuum](https://github.com/koma-im/continuum-desktop)
 
 ### Ditto
 
-**Опис**
-
-**Платформи**
+Платформи: Web, iOS, Android.
 
 [Початковий код Ditto](https://gitlab.com/ditto-chat/ditto)
 
@@ -132,9 +124,13 @@ title: Який клієнт Matrix краще?
 
 **Опис**
 
-Є "еталонним клієнтом", підтримує всі базові функції. Краще інших підходить для новачків, які тільки знайомляться з Matrix.
+"Еталонний" клієнт Matrix, що підтримує всі базові функції, зосереджений на продуктивності та зручності. Краще інших підходить для новачків.
 
-**Платформи**
+**Відгук**
+
+Платформи: Web, iOS, Android, Mac, Windows.
+
+[Сайт](https://element.io/)
 
 [Початковий код Element](https://github.com/element-hq)
 
@@ -431,6 +427,7 @@ Matrix-клієнт для watchOS.
 
 За матеріалами:
 
-- [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
 - [Clients](https://matrix.org/ecosystem/clients/).
+- [Communication Tools](https://privacydev.net/communication_tools.html) - порівняння месенджерів.
+- [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
 - [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.

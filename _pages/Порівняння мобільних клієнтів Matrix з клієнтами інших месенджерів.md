@@ -6,6 +6,7 @@ title: Порівняння мобільних клієнтів Matrix з клі
 | Бали | Назва                  | Трекери | Дозволи |
 |:----:|------------------------|:-------:|:-------:|
 |  07  | Ditto                  |    0    |    7    |
+|  10  | Plumble - Mumble VOIP  |    0    |   10    |
 |  10  | Syphon                 |    0    |   10    |
 |  16  | Messenger for Facebook |    6    |   10    |
 |  18  | Element X              |    1    |   17    |
@@ -15,10 +16,13 @@ title: Порівняння мобільних клієнтів Matrix з клі
 |  29  | Element                |    1    |   28    |
 |  29  | SchildiChat            |    1    |   28    |
 |  29  | Slack                  |    3    |   26    |
+|  31  | Jami                   |    0    |   31    |
 |  32  | Zoom                   |   10    |   22    |
 |  33  | Discord                |    3    |   30    |
+|  39  | Mega                   |    2    |   37    |
 |  39  | Threema Work           |    0    |   39    |
 |  40  | FluffyChat             |    1    |   39    |
+|  46  | Conversations          |    0    |   46    |
 |  47  | Session                |    0    |   47    |
 |  48  | TikTok                 |    5    |   43    |
 |  58  | Line                   |    4    |   54    |
@@ -37,3 +41,4 @@ title: Порівняння мобільних клієнтів Matrix з клі
 ---
 
 Інформація зібрана за допомогою [εxodus](https://reports.exodus-privacy.eu.org/en/).
+[Communication Tools](https://privacydev.net/communication_tools.html) - таблиця порівняння різних месенджерів.
