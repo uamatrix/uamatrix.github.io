@@ -17,6 +17,10 @@ title: Українські сервери Matrix
 - [matrix.rivne.dcomm.net.ua](https://chat.rivne.dcomm.net.ua) - Рівне.
 - matrix.lviv.dcomm.net.ua - Львів.
 
+| Сервер                                                           | Місто  | Адміністратор |
+|------------------------------------------------------------------|--------|---------------|
+| [matrix.kharkiv.dcomm.net.ua](https://chat.kharkiv.dcomm.net.ua) | Харків | Адіміністрато |
+
 ## Приватні сервери
 
 - matrix.mrsommelier.com - Одеса.
