@@ -17,6 +17,7 @@ title: Порівняння мобільних клієнтів Matrix з клі
 |  29  | Slack                  |    3    |   26    |
 |  39  | Threema Work           |    0    |   39    |
 |  40  | FluffyChat             |    1    |   39    |
+|  47  | Session                |    0    |   47    |
 |  58  | Line                   |    4    |   54    |
 |  60  | Band                   |   10    |   50    |
 |  60  | GroupMe                |    9    |   51    |
