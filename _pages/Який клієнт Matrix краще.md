@@ -373,12 +373,12 @@ Matrix-клієнт для watchOS.
 
 ---
 
-Примітки:
-
-- [^1]: [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
-
 За матеріалами:
 
 - [Clients](https://matrix.org/ecosystem/clients/).
 - [Communication Tools](https://privacydev.net/communication_tools.html) - порівняння месенджерів.
 - [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
+
+Примітки:
+
+[^1]: [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
