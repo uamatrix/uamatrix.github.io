@@ -31,18 +31,22 @@ title: Який клієнт Matrix краще?
 
 ### Платформи
 
-| Бали | Назва                     | Android | iOS | Linux | macOS | watchOS | Web | Windows |
-|:----:|---------------------------|:-------:|:---:|:-----:|:-----:|:-------:|:---:|:-------:|
-|      | [Element](#element)       |   ✅    | ✅  |  ✅   |  ✅   |   ❌    | ✅  |   ✅    |
-|      | [Element X](#element-x)   |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
-|      | [Syphon](#syphon)         |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
-|      | [Cinny](#cinny)           |         |     |       |       |   ❌    | ✅  |         |
-|      | [Commet](#commet)         |   ✅    |     |  ✅   |       |   ❌    |     |   ✅    |
-|      | [Continuum](#continuum)   |         |     |  ✅   |  ✅   |   ❌    |     |         |
-|      | [Ditto](#ditto)           |   ✅    | ✅  |       |       |         | ✅  |         |
-|      | [AgentSmith](#agentsmith) |         |     |       |       |         |     |         |
+| Бали | Назва                                 | Android | iOS | Linux | macOS | watchOS | Web | Windows |
+|:----:|---------------------------------------|:-------:|:---:|:-----:|:-----:|:-------:|:---:|:-------:|
+|      | [Element](#element)                   |   ✅    | ✅  |  ✅   |  ✅   |   ❌    | ✅  |   ✅    |
+|      | [Element X](#element-x)               |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
+|      | [Syphon](#syphon)                     |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
+|      | [Cinny](#cinny)                       |   ❌    | ❌  |  ❌   |  ❌   |   ❌    | ✅  |   ❌    |
+|      | [Commet](#commet)                     |   ✅    |     |  ✅   |       |   ❌    |     |   ✅    |
+|      | [Continuum](#continuum)               |         |     |  ✅   |  ✅   |   ❌    |     |         |
+|      | [Ditto](#ditto)                       |   ✅    | ✅  |       |       |   ❌    | ✅  |         |
+|      | [AgentSmith](#agentsmith)             |         |     |       |       |   ❌    |     |         |
+|      | [Watch The Matrix](#watch-the-matrix) |   ❌    | ❌  |  ❌   |  ❌   |   ✅    | ❌  |   ❌    |
+|      | [Thunderbird](#thunderbird)           |   ❌    | ❌  |  ✅   |  ✅   |   ❌    | ❌  |   ✅    |
 
-### Трекери і дозволи
+### Трекери і дозволи [^1]
+
+Трекери і дозволи [^2]
 
 | Бали | Назва                       | Трекери | Дозволи |
 |:----:|-----------------------------|:-------:|:-------:|
@@ -54,7 +58,7 @@ title: Який клієнт Matrix краще?
 |  29  | [SchildiChat](#schildichat) |    1    |   28    |
 |  40  | [FluffyChat](#fluffychat)   |    1    |   39    |
 
-### Рейтинг клієнтів Matrix
+### Популярність у користувачів
 
 | Голоси | Назва                       |
 |:------:|-----------------------------|
@@ -93,6 +97,8 @@ title: Який клієнт Matrix краще?
 Клієнт Matrix, зосереджений на простому, елегантному та безпечному інтерфейсі. Головна мета — створити зручну для людей програму обміну миттєвими повідомленнями, яка має сучасний вигляд.
 
 **Відгук**
+
+[Сайт](https://cinny.in/)
 
 [Початковий код Cinny](https://github.com/cinnyapp/cinny)
 
@@ -353,6 +359,8 @@ title: Який клієнт Matrix краще?
 
 **Відгук про Thunderbird**
 
+[Сайт](https://www.thunderbird.net/uk/)
+
 [Початковий код Thunderbird](https://hg.mozilla.org/comm-central)
 
 ### Watch The Matrix
@@ -360,8 +368,6 @@ title: Який клієнт Matrix краще?
 **Опис Watch The Matrix**
 
 Matrix-клієнт для watchOS.
-
-**Відгук про Watch The Matrix**
 
 [Початковий код Watch The Matrix](https://github.com/pixlwave/Watch-The-Matrix)
 
