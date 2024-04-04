@@ -44,9 +44,9 @@ title: Який клієнт Matrix краще?
 |      | [Watch The Matrix](#watch-the-matrix) |   ❌    | ❌  |  ❌   |  ❌   |   ✅    | ❌  |   ❌    |
 |      | [Thunderbird](#thunderbird)           |   ❌    | ❌  |  ✅   |  ✅   |   ❌    | ❌  |   ✅    |
 
-### Трекери і дозволи [^1]
+### Трекери і дозволи
 
-Трекери і дозволи [^2]
+Трекери і дозволи [^1].
 
 | Бали | Назва                       | Трекери | Дозволи |
 |:----:|-----------------------------|:-------:|:-------:|
@@ -378,4 +378,4 @@ Matrix-клієнт для watchOS.
 - [Clients](https://matrix.org/ecosystem/clients/).
 - [Communication Tools](https://privacydev.net/communication_tools.html) - порівняння месенджерів.
 - [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
-- [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
+[^1]: [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
