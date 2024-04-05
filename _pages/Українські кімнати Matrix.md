@@ -15,9 +15,6 @@ title: Українські кімнати Matrix
     - [Windows UA](https://matrix.to/#/#windows.ua:matrix.org) - Будь-що, що стосується OS Windows.
     - [Ігри](https://matrix.to/#/#games_ua:matrix.org)
       - [Cataclysm DDA](https://matrix.to/#/#cataclysmdda:matrix.org) - Cataclysm: Dark Days Ahead.
-      - [Command & Conquer](https://matrix.to/#/#command_and_conquer_ua:matrix.org) - Про ігри серії Command & Conquer, а також OpenRA українською.
-      - [Little Nightmares](https://matrix.to/#/#little_nightmares:matrix.org) - Про Little Nightmares українською.
-      - [Rome Total War (REMASTERED)](https://matrix.to/#/#rome_total_war:matrix.org) - Про гру Rome Total War, а також її ремастер українською.
       - [Ігри](https://matrix.to/#/#games.all:matrix.org) - Про ігри українською.
     - [Аніме](https://matrix.to/#/#anime.ua:matrix.org)
     - [Блоги](https://matrix.to/#/#blogs_ua:matrix.org) - Вся відповідальність за зміст публікацій залишається на авторі публікацій або джерелі публікацій. Адміністрація простору може не розділяти позицію авторів публікацій. Неофіційні дзеркала можуть публікувати дописи з затримкою і не містять фото та відео.
