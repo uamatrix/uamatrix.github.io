@@ -378,7 +378,7 @@ Element X, бо Element повільніше. Не вистачає функці
 
 **Опис Thunderbird**
 
-**Відгук про Thunderbird**
+**Відгук**
 
 [Сайт](https://www.thunderbird.net/uk/)
 
@@ -386,7 +386,7 @@ Element X, бо Element повільніше. Не вистачає функці
 
 ### Watch The Matrix
 
-**Опис Watch The Matrix**
+**Опис**
 
 Matrix-клієнт для watchOS.
 
