@@ -38,7 +38,7 @@ title: Який клієнт Matrix краще?
 
 Раніше подібна таблиця порівняння клієнтів була на сайті [Matrix](https://matrix.org/ecosystem/clients/) але наразі там тільки список клієнтів. Що і спонукало створити порівняльну таблицю самостійно.
 
-Окрім цього може бути цікава [таблиця](https://privacydev.net/communication_tools.html) порівняння функціоналу [Elemtn](#element) з іншими месенджерами.
+Окрім цього може бути цікава [таблиця](https://privacydev.net/communication_tools.html) порівняння функціоналу Element з іншими програмами обміну повідомленнями.
 
 ### Платформи
 
@@ -421,7 +421,3 @@ Element X, бо Element повільніше. Не вистачає функці
 Matrix-клієнт для watchOS.
 
 [Початковий код Watch The Matrix](https://github.com/pixlwave/Watch-The-Matrix)
-
----
-
-[^1]: [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
