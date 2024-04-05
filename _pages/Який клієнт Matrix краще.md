@@ -5,7 +5,13 @@ title: Який клієнт Matrix краще?
 
 ## Порівняння клієнтів Matrix
 
+Протокол Matrix має багато клієнтів різного ступеню готовності і активності. Найкращим для ознайомлення з месенджером є [Element](#element). Якщо досвіду користування Matrix немає зовсім, далі можна не читати і сміливо встановлювати цей клієнт на всі пристрої. Якщо ж певний досвід вже є і Element чимось не влаштовує або ж хочеться спробувати новий клієнт, знайти клієнт під певну задачу чи дізнатись який додатковий функціонал може бути присутній в клієнтах Matrix, їх порівняння далі може бути цікавим. 
+
+В порівнянні присутні як активні так і закинуті проекти. В його основі лежить інформація зі сторінки [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
+
 ### Функції
+
+Функціонал клієнтів може сильно відрізнятись. Вони можуть бути мінімалістичними і зосереджені навколо певної моделі використання (наприклад, консольні клієнти) та мати сильно урізаний функціонал, або ж пропонувати додаткові можливості, які відсутні в [Element](#element), чи намагаються запропонувати однаковий досвід взаємодії на різних платформах.
 
 | Бали | Назва                                     | E2ee | Простори | Voip 1на1 | Voip Jitsi | Гілки | Sso | Мультиаккаунт | Багатомовність |
 |:----:|-------------------------------------------|:----:|:--------:|:---------:|:----------:|:-----:|-----|:-------------:|:--------------:|
@@ -19,6 +25,7 @@ title: Який клієнт Matrix краще?
 |  4   | [Thunderbird](#thunderbird)               |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
 |  4   | [Syphon](#syphon)                         |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ✅       |       ✅       |
 |  4   | [Fractal](#fractal)                       |  ✅  |    ❌    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ✅       |
+|  3   | [gotktrix](#gotktrix)                     |  ❌  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ✅       |       ❌       |
 |  3   | [Commet](#commet)                         |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ❌  |      ✅       |       ❌       |
 |  3   | [Cinny](#cinny)                           |  ✅  |    ✅    |    ❌     |     ❌     |  ❌   | ✅  |      ❌       |       ❌       |
 |  2   | [matrix-commander](#matrix-commander)     |  ✅  |    ❌    |    ❌     |     ❌     |       | ✅  |      ❌       |       ❌       |
@@ -29,20 +36,24 @@ title: Який клієнт Matrix краще?
 |  0   | [mnotify](#mnotify)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
 |  0   | [Quadrix](#quadrix)                       |  ❌  |    ❌    |    ❌     |     ❌     |  ❌   | ❌  |      ❌       |       ❌       |
 
+Раніше подібна таблиця порівняння клієнтів була на сайті [Matrix](https://matrix.org/ecosystem/clients/) але наразі там тільки список клієнтів. Що і спонукало створити порівняльну таблицю самостійно.
+
+Окрім цього може бути цікава [таблиця](https://privacydev.net/communication_tools.html) порівняння функціоналу [Elemtn](#element) з іншими месенджерами.
+
 ### Платформи
 
 | Бали | Назва                                 | Android | iOS | Linux | macOS | watchOS | Web | Windows |
 |:----:|---------------------------------------|:-------:|:---:|:-----:|:-----:|:-------:|:---:|:-------:|
-|      | [Element](#element)                   |   ✅    | ✅  |  ✅   |  ✅   |   ❌    | ✅  |   ✅    |
-|      | [Element X](#element-x)               |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
-|      | [Syphon](#syphon)                     |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
-|      | [Cinny](#cinny)                       |   ❌    | ❌  |  ❌   |  ❌   |   ❌    | ✅  |   ❌    |
-|      | [Commet](#commet)                     |   ✅    |     |  ✅   |       |   ❌    |     |   ✅    |
-|      | [Continuum](#continuum)               |         |     |  ✅   |  ✅   |   ❌    |     |         |
-|      | [Ditto](#ditto)                       |   ✅    | ✅  |       |       |   ❌    | ✅  |         |
-|      | [AgentSmith](#agentsmith)             |         |     |       |       |   ❌    |     |         |
+|  6   | [Element](#element)                   |   ✅    | ✅  |  ✅   |  ✅   |   ❌    | ✅  |   ✅    |
+|  3   | [Thunderbird](#thunderbird)           |   ❌    | ❌  |  ✅   |  ✅   |   ❌    | ❌  |   ✅    |
+|  3   | [Ditto](#ditto)                       |   ✅    | ✅  |       |       |   ❌    | ✅  |         |
+|  3   | [Commet](#commet)                     |   ✅    |     |  ✅   |       |   ❌    |     |   ✅    |
+|  2   | [Syphon](#syphon)                     |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
+|  2   | [Element X](#element-x)               |   ✅    | ✅  |  ❌   |  ❌   |   ❌    | ❌  |   ❌    |
+|  2   | [Continuum](#continuum)               |         |     |  ✅   |  ✅   |   ❌    |     |         |
 |  1   | [Watch The Matrix](#watch-the-matrix) |   ❌    | ❌  |  ❌   |  ❌   |   ✅    | ❌  |   ❌    |
-|      | [Thunderbird](#thunderbird)           |   ❌    | ❌  |  ✅   |  ✅   |   ❌    | ❌  |   ✅    |
+|  1   | [Cinny](#cinny)                       |   ❌    | ❌  |  ❌   |  ❌   |   ❌    | ✅  |   ❌    |
+|      | [AgentSmith](#agentsmith)             |         |     |       |       |   ❌    |     |         |
 
 ### Трекери і дозволи
 
@@ -145,6 +156,8 @@ title: Який клієнт Matrix краще?
 
 **Опис**
 
+Абсолютно новий - найшвидший в історії - додаток для спілкування на основі Matrix.
+
 **Відгук**
 
 Element X, бо Element повільніше. Не вистачає функціональності Element в Element X. Web-версія Element на десктопі теж дивно трохи виглядає.
@@ -186,6 +199,8 @@ Element X, бо Element повільніше. Не вистачає функці
 
 **Опис**
 
+Термінальний клієнт Matrix, написаний на Go.
+
 [Початковий код gomuks](https://github.com/tulir/gomuks)
 
 ### gotktrix
@@ -193,6 +208,8 @@ Element X, бо Element повільніше. Не вистачає функці
 ![gotktrix](/images/gotktrix.png)
 
 **Опис**
+
+Матричний клієнт на Go та GTK4.
 
 [Початковий код gotktrix](https://github.com/diamondburned/gotktrix)
 
@@ -393,13 +410,5 @@ Matrix-клієнт для watchOS.
 [Початковий код Watch The Matrix](https://github.com/pixlwave/Watch-The-Matrix)
 
 ---
-
-За матеріалами:
-
-- [Clients](https://matrix.org/ecosystem/clients/).
-- [Communication Tools](https://privacydev.net/communication_tools.html) - порівняння месенджерів.
-- [delightful matrix](https://codeberg.org/yarmo/delightful-matrix).
-
-Примітки:
 
 [^1]: [εxodus](https://reports.exodus-privacy.eu.org/en/) - трекери і дозволи.
