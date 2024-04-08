@@ -45,7 +45,7 @@ title: Українські сервери Matrix
 
 mastodon.vn.ua
 
-##matrix.co.ua
+## matrix.co.ua
 
 #support:matrix.co.ua 
 
