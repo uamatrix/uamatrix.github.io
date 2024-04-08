@@ -4,20 +4,20 @@ title: Українські сервери Matrix
 ---
 Сервери Matrix з відкритою реєстрацією, що знаходяться в Україні або адмініструються українцями.
 
-| Сервер                                                                      |    Місто     |
-|-----------------------------------------------------------------------------|:------------:|
-| [matrix.kharkiv.dcomm.net.ua](#сервери-dcomm)                               |    Харків    |
-| [matrix.kherson.dcomm.net.ua](#сервери-dcomm)                               |    Херсон    |
-| [matrix.khmelnytskyi.dcomm.net.ua](#сервери-dcomm)                          | Хмельницький |
-| [matrix.kyiv.dcomm.net.ua](#сервери-dcomm)                                  |     Київ     |
-| [matrix.lviv.dcomm.net.ua](#сервери-dcomm)                                  |    Львів     |
-| [matrix.lviv2.dcomm.net.ua](#сервери-dcomm)                                 |    Львів     |
-| [matrix.mykolayiv.dcomm.net.ua](#сервери-dcomm)                             |   Миколаїв   |
-| [matrix.odessa.dcomm.net.ua](#сервери-dcomm)                                |    Одеса     |
-| [matrix.poltava.dcomm.net.ua](#сервери-dcomm)                               |   Полтава    |
-| [matrix.rivne.dcomm.net.ua](#сервери-dcomm)                                 |    Рівне     |
-| [mastodon.vn.ua](https://mastodon.vn.ua/)                                   |              |
-| [matrix.co.ua](#matrix.co.ua)                                               |    Одеса     |
+| Сервер                                         |    Місто     |
+|------------------------------------------------|:------------:|
+| matrix.kharkiv.dcomm.net.ua                    |    Харків    |
+| matrix.kherson.dcomm.net.ua                    |    Херсон    |
+| matrix.khmelnytskyi.dcomm.net.ua               | Хмельницький |
+| matrix.kyiv.dcomm.net.ua                       |     Київ     |
+| matrix.lviv.dcomm.net.ua                       |    Львів     |
+| matrix.lviv2.dcomm.net.ua                      |    Львів     |
+| matrix.mykolayiv.dcomm.net.ua                  |   Миколаїв   |
+| matrix.odessa.dcomm.net.ua                     |    Одеса     |
+| matrix.poltava.dcomm.net.ua                    |   Полтава    |
+| matrix.rivne.dcomm.net.ua                      |    Рівне     |
+| mastodon.vn.ua                                 |              |
+| matrix.co.ua                                   |    Одеса     |
 
 ## Опис Українських серверів Matrix
 
