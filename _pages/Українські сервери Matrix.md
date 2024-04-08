@@ -17,7 +17,7 @@ title: Українські сервери Matrix
 | [matrix.poltava.dcomm.net.ua](#сервери-dcomm)                               |   Полтава    |
 | [matrix.rivne.dcomm.net.ua](#сервери-dcomm)                                 |    Рівне     |
 | [mastodon.vn.ua](https://mastodon.vn.ua/)                                   |              |
-| [matrix.co.ua](#matrix-co-ua)                                               |    Одеса     |
+| [matrix.co.ua](#matrix.co.ua)                                               |    Одеса     |
 
 ## Опис Українських серверів Matrix
 
