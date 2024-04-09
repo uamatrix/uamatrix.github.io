@@ -71,6 +71,8 @@ title: Який клієнт Matrix краще?
 
 ### Популярність у користувачів
 
+Для визначення популярності клієнтів Matrix було проведено опитування користувачів в кімнаті [Вільне ПЗ Україна](https://matrix.to/#/!QFgiqoAkggMqmfsyEc:matrix.org/$cn7n2WJnj87os4VJuljAnO3pZ3HvbvgAXSir3OdIFkI?via=matrix.org&via=matrix.kyiv.dcomm.net.ua&via=matrix.lviv.dcomm.net.ua).
+
 | Голоси | Назва                       |
 |:------:|-----------------------------|
 |   11   | [Element](#element)         |
@@ -80,7 +82,7 @@ title: Який клієнт Matrix краще?
 |   1    | [Nheko](#nheko)             |
 |   1    | [Cinny](#cinny)             |
 
-Результати на підставі 28 голосів.
+Результати отримані на підставі 28 голосів.
 
 ## Опис клієнтів Matrix та відгуки про їх використання
 
