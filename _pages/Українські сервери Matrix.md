@@ -26,8 +26,6 @@ title: Українські сервери Matrix
 
 Сервери dComm запущені як резервна платформа для комунікації на випадки обмеження доступу до інтернету через аварії або цензуру. При відключенні серверу від глобальної мережі, але за умови збереження доступу до нього, користувачі зможуть обмінюватись повідомленнями в межах серверу. Обладнання знаходиться в великих містах України тому забезпечують кращу швидкість доступу. Але ці сервери Matrix можуть працювати нестабільно та не підтримувати аудіо та відео-дзвінки.
 
-В випадку проблем з доступом звертайтесь в кімнату [Швидка допомога з цифрової безпеки DSS380](https://matrix.to/#/#dsec:matrix.kherson.dcomm.net.ua).
-
 Реєстрація:
 - [matrix.kharkiv.dcomm.net.ua](https://chat.kharkiv.dcomm.net.ua)
 - [matrix.kherson.dcomm.net.ua](https://chat.kherson.dcomm.net.ua/)
@@ -40,14 +38,20 @@ title: Українські сервери Matrix
 - [matrix.poltava.dcomm.net.ua](https://poltava.dcomm.net.ua/)
 - [matrix.rivne.dcomm.net.ua](https://chat.rivne.dcomm.net.ua)
 
-Боти:
-- @dcomm-bot:matrix.kyiv.dcomm.net.ua
+**Боти:** @dcomm-bot:matrix.kyiv.dcomm.net.ua
 
-Більше інформації на сайті [dComm](https://dcomm.net.ua/).
+**Сайт:** [dComm](https://dcomm.net.ua/)
+
+**Технічна підтримка:** [Швидка допомога з цифрової безпеки DSS380](https://matrix.to/#/#dsec:matrix.kherson.dcomm.net.ua)
 
 ## Приватні сервери
 
 mastodon.vn.ua
+
+Боти:
+Правила:
+Сайт:
+Технічна підтримка:
 
 ## matrix.co.ua
 

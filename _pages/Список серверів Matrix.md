@@ -24,3 +24,4 @@ Aria - це мережа сайтів і сервісів, що спеціалі
 - [Ranked Matrix servers](https://tatsumoto-ren.github.io/matrix/)
 - [Unofficial selection of public Matrix servers](https://www.hello-matrix.net/public_servers.php)
 - [matrixservers](https://github.com/ara4n/matrixservers)
+- [Українські інстанси Matrix](https://cakestwix.github.io/WebUkrainianStuff/comms/matrix)
