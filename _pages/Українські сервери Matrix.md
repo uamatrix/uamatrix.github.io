@@ -6,6 +6,8 @@ title: Українські сервери Matrix
 
 | Сервер                           |    Місто     | Дзвінки |
 |----------------------------------|:------------:|:-------:|
+| mastodon.vn.ua                   |              |         |
+| matrix.co.ua                     |    Одеса     |   ✅    |
 | matrix.kharkiv.dcomm.net.ua      |    Харків    |         |
 | matrix.kherson.dcomm.net.ua      |    Херсон    |         |
 | matrix.khmelnytskyi.dcomm.net.ua | Хмельницький |         |
@@ -16,8 +18,7 @@ title: Українські сервери Matrix
 | matrix.odessa.dcomm.net.ua       |    Одеса     |         |
 | matrix.poltava.dcomm.net.ua      |   Полтава    |         |
 | matrix.rivne.dcomm.net.ua        |    Рівне     |         |
-| mastodon.vn.ua                   |              |         |
-| matrix.co.ua                     |    Одеса     |   ✅    |
+| opulus.space                     |              |         |
 
 ## Опис Українських серверів Matrix
 
@@ -50,3 +51,5 @@ mastodon.vn.ua
 #support:matrix.co.ua 
 
 2 сервери для дзвінків у Європі (Швеція, Стокгольм) з каналом зв'язку в 10 Гбіт/с; сам сервер фізично знаходиться в Одесі; підтримка завантаження файлів до 300 мб; медіа на сервері зберігаються 120 днів, налаштовані мости у телеграм.
+
+## opulus.space
