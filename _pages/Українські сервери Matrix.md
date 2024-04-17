@@ -4,21 +4,21 @@ title: Українські сервери Matrix
 ---
 Сервери Matrix з відкритою реєстрацією, що знаходяться в Україні або адмініструються українцями.
 
-| Сервер                           |    Місто     | Дзвінки | Максимальний розмір файлів | Кількість корстувачів |
-|----------------------------------|:------------:|:-------:|:--------------------------:|:---------------------:|
-| mastodon.vn.ua                   |              |         |                            |                       |
-| matrix.co.ua                     |    Одеса     |   ✅    |     300 mb на 120 днів     |                       |
-| matrix.kharkiv.dcomm.net.ua      |    Харків    |         |                            |                       |
-| matrix.kherson.dcomm.net.ua      |    Херсон    |         |                            |                       |
-| matrix.khmelnytskyi.dcomm.net.ua | Хмельницький |         |                            |                       |
-| matrix.kyiv.dcomm.net.ua         |     Київ     |         |                            |                       |
-| matrix.lviv.dcomm.net.ua         |    Львів     |         |                            |                       |
-| matrix.lviv2.dcomm.net.ua        |    Львів     |         |                            |                       |
-| matrix.mykolayiv.dcomm.net.ua    |   Миколаїв   |         |                            |                       |
-| matrix.odessa.dcomm.net.ua       |    Одеса     |         |                            |                       |
-| matrix.poltava.dcomm.net.ua      |   Полтава    |         |                            |                       |
-| matrix.rivne.dcomm.net.ua        |    Рівне     |         |                            |                       |
-| opulus.space                     |              |         |                            |                       |
+| Сервер                           |    Місто     | Дзвінки | Максимальний розмір файлів | Зареєстровано акаунтів |
+|----------------------------------|:------------:|:-------:|:--------------------------:|:----------------------:|
+| mastodon.vn.ua                   |              |         |                            |                        |
+| matrix.co.ua                     |    Одеса     |   ✅    |     300 mb на 120 днів     |                        |
+| matrix.kharkiv.dcomm.net.ua      |    Харків    |         |                            |                        |
+| matrix.kherson.dcomm.net.ua      |    Херсон    |         |                            |                        |
+| matrix.khmelnytskyi.dcomm.net.ua | Хмельницький |         |                            |                        |
+| matrix.kyiv.dcomm.net.ua         |     Київ     |         |                            |                        |
+| matrix.lviv.dcomm.net.ua         |    Львів     |         |                            |                        |
+| matrix.lviv2.dcomm.net.ua        |    Львів     |         |                            |                        |
+| matrix.mykolayiv.dcomm.net.ua    |   Миколаїв   |         |                            |                        |
+| matrix.odessa.dcomm.net.ua       |    Одеса     |         |                            |                        |
+| matrix.poltava.dcomm.net.ua      |   Полтава    |         |                            |                        |
+| matrix.rivne.dcomm.net.ua        |    Рівне     |         |                            |                        |
+| opulus.space                     |              |         |                            |                        |
 
 ## Опис Українських серверів Matrix
 
